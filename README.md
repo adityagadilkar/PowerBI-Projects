@@ -1,4 +1,4 @@
-📊 HR Analytics Dashboard
+# 📊 HR Analytics Dashboard
 📌 Project Overview
 This project features an interactive HR Analytics Dashboard built with Power BI to analyze and visualize key human resource metrics such as employee count, attrition rate, gender diversity, departmental distribution, and performance ratings. It aims to support strategic workforce decisions through actionable insights.
 
