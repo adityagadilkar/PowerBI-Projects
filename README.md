@@ -1,18 +1,38 @@
 # 📊 HR Analytics Dashboard
-## 📌 Project Overview
-This project features an interactive HR Analytics Dashboard built with Power BI to analyze and visualize key human resource metrics such as employee count, attrition rate, gender diversity, departmental distribution, and performance ratings. It aims to support strategic workforce decisions through actionable insights.
+## 📝 Overview
+The HR Analytics Dashboard is an interactive business intelligence solution developed in Power BI to assist HR professionals in visualizing and interpreting key workforce metrics. The dashboard focuses on employee demographics, attrition trends, department distribution, and performance metrics, enabling data-driven HR strategies.
 
-## 🚀 Key Features
-- Real-time KPIs on employee demographics and attrition.
-- Department and gender-wise breakdown with drill-through capabilities.
-- Custom DAX measures and slicers for dynamic filtering.
-- Automated reporting reducing manual effort by 60%.
+## 🎯 Objectives
+- Visualize HR data for real-time decision-making.
 
-## 🛠️ Tools & Technologies
-- Power BI
-- DAX (Data Analysis Expressions)
-- Excel (Data source)
+- Identify trends in employee attrition and performance.
 
-## 📈 Impact
-- Enabled analysis of 200+ employee records.
-- Delivered 5+ interactive visuals aiding executive-level decision-making.
+- Empower stakeholders with interactive, self-service analytics.
+
+## 💡 Key Features
+- Dynamic filtering by department, education, gender, and performance ratings.
+
+- KPIs for total employees, attrition rate, and diversity index.
+
+- Department-wise employee count with drill-down options.
+
+- Automated updates reducing manual report generation by 60%.
+
+## 📂 Dataset
+- Source: CSV/Excel file containing synthetic HR data (~200 records)
+
+- Fields: EmployeeID, Age, Gender, Department, Education, Attrition, PerformanceRating, etc.
+
+## ⚙️ Tools & Technologies
+- Power BI Desktop
+
+- DAX (for calculated columns and measures)
+
+- Microsoft Excel (for raw data ingestion)
+
+## 📈 Results
+- Enabled in-depth analysis of 200+ employee records.
+
+- Identified key attrition trends by department and age group.
+
+- Facilitated faster decision-making with 5+ interactive visuals and KPIs.
