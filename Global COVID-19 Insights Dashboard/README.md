@@ -1,5 +1,8 @@
 # 🌍 Global COVID-19 Insights Dashboard
 
+![1](https://github.com/user-attachments/assets/e7936570-c35d-4d1e-b858-32a713a2709b)
+
+
 ## 📊 Project Overview
 
 The **Global COVID-19 Insights Dashboard** is an interactive data visualization project built using **Power BI**. It provides a comprehensive, at-a-glance overview of global COVID-19 statistics, enabling users to explore trends across countries in terms of active cases, recoveries, and fatalities.
@@ -81,3 +84,12 @@ Cases by Status =
         "Recovered", [Total Recovered],
         "Deaths", [Total Deaths]
     )
+
+## 🚀 Getting Started
+
+To explore the dashboard:
+
+1. Clone the repository or download the `.pbix` file.
+2. Open the file in **Power BI Desktop**.
+3. Refresh data if needed (ensure dataset paths or mock data are available).
+4. Interact with the dashboard using filters and slicers.
