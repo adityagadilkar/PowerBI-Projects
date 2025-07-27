@@ -1,8 +1,6 @@
 # 📊 Customer Sales Analysis Dashboard – Power BI Project
 
-![Uploading 1.jpg…]()
-
-
+![1](https://github.com/user-attachments/assets/9fbbdab4-727f-4d44-a604-2bab73e69866)
 
 ## 🧾 Overview
 
