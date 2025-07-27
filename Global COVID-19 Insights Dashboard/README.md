@@ -1,7 +1,6 @@
 # 🌍 Global COVID-19 Insights Dashboard
 
-![1](https://github.com/user-attachments/assets/e7936570-c35d-4d1e-b858-32a713a2709b)
-
+![2](https://github.com/user-attachments/assets/88103890-330b-40ec-8339-3fb281df3747)
 
 ## 📊 Project Overview
 
