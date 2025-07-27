@@ -37,7 +37,8 @@ This project presents a **Customer Sales Analysis Dashboard** built using **Micr
 
 ## 📊 Sample Visuals
 
-> 📸 *[You can include screenshots or a GIF here once uploaded]*
+> 📸 ![2](https://github.com/user-attachments/assets/6de06a15-d802-4df0-9f64-4cd6807312a8)
+
 
 ## 🔍 Insights Derived
 
