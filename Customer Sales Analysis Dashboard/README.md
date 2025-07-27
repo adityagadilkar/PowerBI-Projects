@@ -1,5 +1,8 @@
 # 📊 Customer Sales Analysis Dashboard – Power BI Project
 
+![2](https://github.com/user-attachments/assets/0f7a2d83-4084-41f6-8b6e-5ce6bcdf2a17)
+
+
 ## 🧾 Overview
 
 This project presents a **Customer Sales Analysis Dashboard** built using **Microsoft Power BI**. The goal is to help stakeholders gain deep insights into sales performance, customer behavior, and product trends to drive strategic decisions.
@@ -35,10 +38,6 @@ This project presents a **Customer Sales Analysis Dashboard** built using **Micr
 | **Regional Trends** | Breaks down sales by country, state, or region |
 | **Interactive Filters** | Time slicers, product categories, customer segments, and more |
 
-## 📊 Sample Visuals
-
-> 📸 ![2](https://github.com/user-attachments/assets/6de06a15-d802-4df0-9f64-4cd6807312a8)
-
 
 ## 🔍 Insights Derived
 
@@ -63,21 +62,3 @@ To explore the dashboard:
 2. Open the file in **Power BI Desktop**.
 3. Refresh data if needed (ensure dataset paths or mock data are available).
 4. Interact with the dashboard using filters and slicers.
-
-## 📎 Link
-
-🔗 [Add your public Power BI link or GitHub repo link here]
-
-## 🙋‍♂️ Author
-
-**Aditya Gadilkar**  
-📫 [LinkedIn Profile](https://www.linkedin.com/in/adityagadilkar/)  
-💼 Aspiring Data Analyst | Power BI Enthusiast | Data Storyteller  
-
-## 🏷️ Tags
-
-`Power BI` `Data Analysis` `Dashboard` `Sales Analytics` `Customer Insights` `Business Intelligence`
-
----
-
-Feel free to contribute or fork this repository to explore more enhancements!
