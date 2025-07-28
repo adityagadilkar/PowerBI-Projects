@@ -83,9 +83,9 @@ Cases by Status =
         "Active", [Total Active],
         "Recovered", [Total Recovered],
         "Deaths", [Total Deaths]
-    )
----
+    )```
 
+---
 
 ## 🚀 Getting Started
 
