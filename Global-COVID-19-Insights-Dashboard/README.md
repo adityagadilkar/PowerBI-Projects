@@ -72,11 +72,11 @@ This dashboard is designed to assist health researchers, policy analysts, and th
 
 ## 🧮 Key DAX Measures
 
-Total Active = SUM('Table'[Active Cases])
-Total Recovered = SUM('Table'[Recovered Cases])
-Total Deaths = SUM('Table'[Deaths])
-Total All Status = [Total Active] + [Total Recovered] + [Total Deaths]
-Cases by Status = 
+- Total Active = SUM('Table'[Active Cases])
+- Total Recovered = SUM('Table'[Recovered Cases])
+- Total Deaths = SUM('Table'[Deaths])
+- Total All Status = [Total Active] + [Total Recovered] + [Total Deaths]
+- Cases by Status = 
     SWITCH(
         SELECTEDVALUE('Status Table'[Status]),
         "Active", [Total Active],
