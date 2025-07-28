@@ -84,6 +84,8 @@ Cases by Status =
         "Recovered", [Total Recovered],
         "Deaths", [Total Deaths]
     )
+---
+
 
 ## 🚀 Getting Started
 
